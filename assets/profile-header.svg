@@ -14,7 +14,7 @@
 <text x="83" y="47" fill="#93abc9" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2.2">DATA · AI · ENGINEERING</text>
 <text x="44" y="125" fill="#f7faff" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2.4">Qiming Liu<tspan fill="#39d4c3">.</tspan></text>
 <text x="48" y="169" fill="#bbcce2" font-family="Segoe UI,Arial,sans-serif" font-size="20" letter-spacing=".2">From data to working systems.</text>
-<text x="48" y="201" fill="#7894b8" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1.7">MISSOURI STATE UNIVERSITY</text>
+<text x="48" y="201" fill="#7894b8" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1.7">PYTHON · SQL · R</text>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
  <path d="M660 91h48q20 0 20 24v27q0 20 22 20h40" stroke="#365676" stroke-width="1.5"/>
  <path d="M660 162h46q22 0 22-24v-23q0-24 22-24h40" stroke="url(#line)" stroke-width="2"/>
@@ -33,4 +33,5 @@
 <circle class="signal" r="3" fill="#63eedb"><animateMotion dur="7s" repeatCount="indefinite" path="M660 162h46q22 0 22-24v-23q0-24 22-24h40"/></circle>
 <circle class="signal" r="3" fill="#a0baff"><animateMotion dur="7s" begin="3s" repeatCount="indefinite" path="M837 162h41q20 0 20-21v-29q0-21 23-21h24"/></circle>
 </svg>
+
 
