@@ -11,18 +11,16 @@
   <a href="https://github.com/search?q=user%3AKiren-67m+topic%3Amsu-project&amp;type=repositories"><img src="./assets/link-msu.svg" height="36" alt="MSU Projects" /></a>
 </p>
 
-<br/>
-
 **Tools I work with**
 
 <p>
-  <img src="./assets/tech-python.svg" width="64" alt="Python" title="Python" />
-  <img src="./assets/tech-mysql.svg" width="64" alt="MySQL" title="MySQL" />
-  <img src="./assets/tech-pandas.svg" width="64" alt="pandas" title="pandas" />
-  <img src="./assets/tech-numpy.svg" width="64" alt="NumPy" title="NumPy" />
-  <img src="./assets/tech-scikitlearn.svg" width="64" alt="scikit-learn" title="scikit-learn" />
-  <img src="./assets/tech-flask.svg" width="64" alt="Flask" title="Flask" />
-  <img src="./assets/tech-amazonwebservices.svg" width="64" alt="AWS" title="AWS" />
-  <img src="./assets/tech-git.svg" width="64" alt="Git" title="Git" />
+  <img src="./assets/tech-python.svg" width="76" alt="Python" title="Python" />
+  <img src="./assets/tech-mysql.svg" width="76" alt="MySQL" title="MySQL" />
+  <img src="./assets/tech-pandas.svg" width="76" alt="pandas" title="pandas" />
+  <img src="./assets/tech-numpy.svg" width="76" alt="NumPy" title="NumPy" />
+  <img src="./assets/tech-scikitlearn.svg" width="76" alt="scikit-learn" title="scikit-learn" />
+  <img src="./assets/tech-flask.svg" width="76" alt="Flask" title="Flask" />
+  <img src="./assets/tech-amazonwebservices.svg" width="76" alt="AWS" title="AWS" />
+  <img src="./assets/tech-git.svg" width="76" alt="Git" title="Git" />
 </p>
 
