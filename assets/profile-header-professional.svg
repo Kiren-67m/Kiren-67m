@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+<title id="title">Qiming Liu — Data Analytics and AI Engineering</title><desc id="desc">A dark blue banner with a data-flow illustration.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1427"/><stop offset="1" stop-color="#182946"/></linearGradient>
+ <linearGradient id="line" x2="1"><stop stop-color="#39d4c3"/><stop offset="1" stop-color="#7a9eff"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#3b82f6" stop-opacity=".19"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#88a9cd" opacity=".16"/></pattern>
+ <style>@media(prefers-reduced-motion:reduce){.signal{display:none}}</style>
+</defs>
+<rect width="1000" height="230" rx="20" fill="url(#bg)"/>
+<rect x="580" width="420" height="230" rx="20" fill="url(#dots)"/>
+<ellipse cx="805" cy="120" rx="230" ry="180" fill="url(#halo)"/>
+<path d="M47 43h24" stroke="#39d4c3" stroke-width="3" stroke-linecap="round"/>
+<text x="83" y="47" fill="#93abc9" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2.2">DATA · AI · ENGINEERING</text>
+<text x="44" y="125" fill="#f7faff" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2.4">Qiming Liu<tspan fill="#39d4c3">.</tspan></text>
+<text x="48" y="169" fill="#bbcce2" font-family="Segoe UI,Arial,sans-serif" font-size="20" letter-spacing=".2">From data to working systems.</text>
+<text x="48" y="201" fill="#7894b8" font-family="Segoe UI,Arial,sans-serif" font-size="11" letter-spacing="1.7">PYTHON · SQL · R</text>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M660 91h48q20 0 20 24v27q0 20 22 20h40" stroke="#365676" stroke-width="1.5"/>
+ <path d="M660 162h46q22 0 22-24v-23q0-24 22-24h40" stroke="url(#line)" stroke-width="2"/>
+ <path d="M837 91h41q20 0 20 21v29q0 21 23 21h24" stroke="#365676" stroke-width="1.5"/>
+ <path d="M837 162h41q20 0 20-21v-29q0-21 23-21h24" stroke="url(#line)" stroke-width="2"/>
+ <rect x="609" y="69" width="51" height="44" rx="11" stroke="#547497" fill="#162b44"/>
+ <path d="M622 84h24m-24 8h24m-24 8h15" stroke="#a4bbd5" stroke-width="2"/>
+ <rect x="609" y="140" width="51" height="44" rx="11" stroke="#547497" fill="#162b44"/>
+ <path d="M623 163l7 7 15-17" stroke="#39d4c3" stroke-width="2"/>
+ <rect x="790" y="69" width="47" height="115" rx="12" stroke="#536d96" fill="#1d3453"/>
+ <path d="M803 91h21m-21 71h21m-13-59v47" stroke="#91a9cc" stroke-width="1.5"/>
+ <circle cx="813.5" cy="125" r="8" stroke="#7a9eff" stroke-width="2"/>
+ <rect x="945" y="78" width="25" height="25" rx="7" stroke="#39d4c3" fill="#1a3c48"/>
+ <rect x="945" y="149" width="25" height="25" rx="7" stroke="#7a9eff" fill="#283d60"/>
+</g>
+<circle class="signal" r="3" fill="#63eedb"><animateMotion dur="7s" repeatCount="indefinite" path="M660 162h46q22 0 22-24v-23q0-24 22-24h40"/></circle>
+<circle class="signal" r="3" fill="#a0baff"><animateMotion dur="7s" begin="3s" repeatCount="indefinite" path="M837 162h41q20 0 20-21v-29q0-21 23-21h24"/></circle>
+</svg>
+
+
