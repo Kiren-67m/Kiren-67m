@@ -1,28 +1,28 @@
-# Qiming Liu
+<img src="./assets/profile-header.svg" width="100%" alt="Qiming Liu — Data Analytics and AI Engineering" />
 
-Data Analytics student at Missouri State University. I build data pipelines, analytical models and web applications, with an interest in data analytics, data engineering and AI.
+<p>
+  Data Analytics student at <b>Missouri State University</b>.<br/>
+  Building with Python and SQL across analytics, data pipelines and AI engineering.
+</p>
 
-[Portfolio](https://kiren-67m.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/qiming-liu-845ba92a0/)
+<p>
+  <a href="https://kiren-67m.github.io/portfolio/"><img src="./assets/link-portfolio.svg" height="36" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/qiming-liu-845ba92a0/"><img src="./assets/link-linkedin.svg" height="36" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/search?q=user%3AKiren-67m+topic%3Amsu-project&amp;type=repositories"><img src="./assets/link-msu.svg" height="36" alt="MSU Projects" /></a>
+</p>
 
-## Selected projects
+<br/>
 
-| Project | What you can inspect |
-| --- | --- |
-| [Loan Portfolio Risk Monitor](https://github.com/Kiren-67m/loan-risk-monitor) | AITCC 2026 Analyze IT Challenge — 2nd place; modeling notebooks, monthly KPIs and report prototypes |
-| [Daily Operations Monitoring](https://github.com/Kiren-67m/automated-daily-ops-monitoring) | Python KPI pipeline, explainable anomaly rules and n8n webhook integration |
-| [BearsShare](https://github.com/Kiren-67m/BearsShare) | Flask food-notification prototype with subscriber storage and signed unsubscribe links |
-| [BLACKPINK Spotify Analysis](https://github.com/Kiren-67m/BLACKPINK_global_spread_project) | Exploratory retention comparisons, analysis notebooks and a Streamlit dashboard |
+**Tools I work with**
 
-## Coursework and learning
-
-| Repository | Context |
-| --- | --- |
-| [Walmart Sales SQL Analysis](https://github.com/Kiren-67m/walmart-sales-sql-analysis) | ITC 295 coursework with individual refinements; MySQL cleaning and descriptive retail analysis |
-| [Spring MVC / CSV Practice](https://github.com/Kiren-67m/mwccdc) | Java learning exercise using controllers, models, CSV parsing and Thymeleaf |
-
-## Personal tools
-
-[Course Schedule Manager](https://github.com/Kiren-67m/schedule) — a bilingual browser planner with calendar views and ICS export.
-
-Project READMEs describe what is implemented, how to explore the work, and the current limitations. My main tools include Python, SQL, pandas and scikit-learn, with Flask, Streamlit and Java for application work.
+<p>
+  <img src="./assets/tech-python.svg" width="64" alt="Python" title="Python" />
+  <img src="./assets/tech-mysql.svg" width="64" alt="MySQL" title="MySQL" />
+  <img src="./assets/tech-pandas.svg" width="64" alt="pandas" title="pandas" />
+  <img src="./assets/tech-numpy.svg" width="64" alt="NumPy" title="NumPy" />
+  <img src="./assets/tech-scikitlearn.svg" width="64" alt="scikit-learn" title="scikit-learn" />
+  <img src="./assets/tech-flask.svg" width="64" alt="Flask" title="Flask" />
+  <img src="./assets/tech-amazonwebservices.svg" width="64" alt="AWS" title="AWS" />
+  <img src="./assets/tech-git.svg" width="64" alt="Git" title="Git" />
+</p>
 
