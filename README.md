@@ -1,8 +1,8 @@
 <img src="./assets/profile-header.svg" width="100%" alt="Qiming Liu — Data Analytics and AI Engineering" />
 
 <p>
-  Data Analytics student at <b>Missouri State University</b>.<br/>
-  Building with Python and SQL across analytics, data pipelines and AI engineering.
+  AI Engineering Intern at <b>OriLoan Financial Inc.</b><br/>
+  Python, SQL and R for data analytics, machine learning and automation.
 </p>
 
 <p>
@@ -16,11 +16,14 @@
 <p>
   <img src="./assets/tech-python.svg" width="76" alt="Python" title="Python" />
   <img src="./assets/tech-mysql.svg" width="76" alt="MySQL" title="MySQL" />
+  <img src="./assets/tech-r.svg" width="76" alt="R" title="R" />
   <img src="./assets/tech-pandas.svg" width="76" alt="pandas" title="pandas" />
-  <img src="./assets/tech-numpy.svg" width="76" alt="NumPy" title="NumPy" />
   <img src="./assets/tech-scikitlearn.svg" width="76" alt="scikit-learn" title="scikit-learn" />
   <img src="./assets/tech-flask.svg" width="76" alt="Flask" title="Flask" />
   <img src="./assets/tech-amazonwebservices.svg" width="76" alt="AWS" title="AWS" />
   <img src="./assets/tech-git.svg" width="76" alt="Git" title="Git" />
 </p>
+
+
+Tableau · Power BI · Advanced Excel · n8n · REST APIs · CI/CD · AWS CloudWatch
 
