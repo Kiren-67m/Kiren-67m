@@ -1,4 +1,4 @@
-<img src="./assets/profile-header.svg?v=20261104-career" width="100%" alt="Qiming Liu — Data Analytics and AI Engineering" />
+<img src="./assets/profile-header-professional.svg" width="100%" alt="Qiming Liu — Data Analytics and AI Engineering" />
 
 <p>
   AI Engineering Intern at <b>OriLoan Financial Inc.</b><br/>
