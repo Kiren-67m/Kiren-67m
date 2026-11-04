@@ -7,8 +7,7 @@
 
 <p>
   <a href="https://kiren-67m.github.io/portfolio/"><img src="./assets/link-portfolio.svg" height="36" alt="Portfolio" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/qiming-liu-845ba92a0/"><img src="./assets/link-linkedin.svg" height="36" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/search?q=user%3AKiren-67m+topic%3Amsu-project&amp;type=repositories"><img src="./assets/link-msu.svg" height="36" alt="MSU Projects" /></a>
+  <a href="https://www.linkedin.com/in/qiming-liu-845ba92a0/"><img src="./assets/link-linkedin.svg" height="36" alt="LinkedIn" /></a>
 </p>
 
 **Tools I work with**
@@ -26,4 +25,7 @@
 
 
 Tableau · Power BI · Advanced Excel · n8n · REST APIs · CI/CD · AWS CloudWatch
+
+
+Repositories: [Analysis](https://github.com/search?q=user%3AKiren-67m+topic%3Acategory-analysis&type=repositories) · [Tools](https://github.com/search?q=user%3AKiren-67m+topic%3Acategory-tools&type=repositories) · [Learning](https://github.com/search?q=user%3AKiren-67m+topic%3Acategory-learning&type=repositories)
 
